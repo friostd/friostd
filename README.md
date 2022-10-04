@@ -8,16 +8,11 @@
 ## **Estatísticas**
 
 <div align="center">
-  <a href="https://github.com/FrioGitHub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friogithub&theme=dracula&hide_langs_below=1" />
+  <a href="https://github.com/FrioGitHub" style="margin-bottom: 8px">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friogithub&theme=dracula&hide_langs_below=1" width="100%" />
   </a>
 
-  <a href="https://github.com/FrioGitHub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=friogithub&show_icons=true&theme=dracula&line_height=27" alt="**Frio**"/>
+  <a href="https://github.com/FrioGitHub" style="margin-top: 8px">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=friogithub&show_icons=true&theme=dracula&line_height=27" width="100%" />
   </a>
 </div>
-
-[youtube]: https://www.youtube.com/FrioDev
-#### Rede Sociais!
-
-📺 [Youtube][youtube]
